@@ -1,0 +1,15 @@
+C:\Users\losol\Documents\VC\YEAR 3\PROG7121\DesignPatterns16.03.23\DesignPatterns16.03.23\obj\Debug\net6.0\DesignPatterns16.03.23.csproj.AssemblyReference.cache
+C:\Users\losol\Documents\VC\YEAR 3\PROG7121\DesignPatterns16.03.23\DesignPatterns16.03.23\obj\Debug\net6.0\DesignPatterns16.03.23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\losol\Documents\VC\YEAR 3\PROG7121\DesignPatterns16.03.23\DesignPatterns16.03.23\obj\Debug\net6.0\DesignPatterns16.03.23.AssemblyInfoInputs.cache
+C:\Users\losol\Documents\VC\YEAR 3\PROG7121\DesignPatterns16.03.23\DesignPatterns16.03.23\obj\Debug\net6.0\DesignPatterns16.03.23.AssemblyInfo.cs
+C:\Users\losol\Documents\VC\YEAR 3\PROG7121\DesignPatterns16.03.23\DesignPatterns16.03.23\obj\Debug\net6.0\DesignPatterns16.03.23.csproj.CoreCompileInputs.cache
+C:\Users\losol\Documents\VC\YEAR 3\PROG7121\DesignPatterns16.03.23\DesignPatterns16.03.23\bin\Debug\net6.0\DesignPatterns16.03.23.exe
+C:\Users\losol\Documents\VC\YEAR 3\PROG7121\DesignPatterns16.03.23\DesignPatterns16.03.23\bin\Debug\net6.0\DesignPatterns16.03.23.deps.json
+C:\Users\losol\Documents\VC\YEAR 3\PROG7121\DesignPatterns16.03.23\DesignPatterns16.03.23\bin\Debug\net6.0\DesignPatterns16.03.23.runtimeconfig.json
+C:\Users\losol\Documents\VC\YEAR 3\PROG7121\DesignPatterns16.03.23\DesignPatterns16.03.23\bin\Debug\net6.0\DesignPatterns16.03.23.dll
+C:\Users\losol\Documents\VC\YEAR 3\PROG7121\DesignPatterns16.03.23\DesignPatterns16.03.23\bin\Debug\net6.0\DesignPatterns16.03.23.pdb
+C:\Users\losol\Documents\VC\YEAR 3\PROG7121\DesignPatterns16.03.23\DesignPatterns16.03.23\obj\Debug\net6.0\DesignPatterns16.03.23.dll
+C:\Users\losol\Documents\VC\YEAR 3\PROG7121\DesignPatterns16.03.23\DesignPatterns16.03.23\obj\Debug\net6.0\refint\DesignPatterns16.03.23.dll
+C:\Users\losol\Documents\VC\YEAR 3\PROG7121\DesignPatterns16.03.23\DesignPatterns16.03.23\obj\Debug\net6.0\DesignPatterns16.03.23.pdb
+C:\Users\losol\Documents\VC\YEAR 3\PROG7121\DesignPatterns16.03.23\DesignPatterns16.03.23\obj\Debug\net6.0\DesignPatterns16.03.23.genruntimeconfig.cache
+C:\Users\losol\Documents\VC\YEAR 3\PROG7121\DesignPatterns16.03.23\DesignPatterns16.03.23\obj\Debug\net6.0\ref\DesignPatterns16.03.23.dll
